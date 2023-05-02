@@ -37,7 +37,7 @@ footer>p{
     float: left;
 }
 
-@media (max-width: 680px){
+@media (max-width: 1250px){
     .main{
         flex-direction: column;
         height: 100%;
